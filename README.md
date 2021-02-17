@@ -22,7 +22,7 @@ pod 'CMAuthenticate'
 
 ## Author
 
-Lakshmi Kodali, l.m.kodali@gmail.com
+Mukesh Muteja
 
 ## License
 
